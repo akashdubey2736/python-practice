@@ -1,6 +1,6 @@
 from question_module import  Question
 from data import question_data
-from quiz_brain import QuizBrain
+from quiz_game import QuizBrain
 
 question_bank=[]
 
